@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
-const version = require('./package').version; // 版本号
-
+const version = require('./package').version; // cli版本号
 /* = package import
 -------------------------------------------------------------- */
 
